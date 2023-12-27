@@ -24,7 +24,7 @@
     "@mdx-js/react": "^1.6.21",
     "@mui/icons-material": "^5.8.3",
     "@mui/material": "^5.8.3",
-    "axios": "^0.27.2",
+    "axios": "^1.6.3",
     "clsx": "^1.1.1",
     "datatables.net-dt": "^1.11.5",
     "docusaurus-lunr-search": "^2.1.15",
