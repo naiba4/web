@@ -79,7 +79,7 @@
         "@babel/eslint-parser": "^7.22.9",
         "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
         "@mui/lab": "^5.0.0-alpha.85",
-        "eslint": "^8.44.0",
+        "eslint": "^9.15.0",
         "eslint-config-prettier": "^8.8.0",
         "eslint-plugin-prettier": "^5.0.0",
         "eslint-plugin-react": "^7.32.2",
