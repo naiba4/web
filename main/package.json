@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "0.0.0-5526",
-    "@docusaurus/preset-classic": "0.0.0-5526",
+    "@docusaurus/preset-classic": "3.8.1",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@material-ui/core": "^4.12.4",
