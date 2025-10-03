@@ -34,7 +34,7 @@
         "leaflet.awesome-markers": "^2.0.5",
         "lodash": "^4.17.21",
         "pako": "^2.0.4",
-        "patch-package": "^6.4.7",
+        "patch-package": "^8.0.1",
         "postinstall-postinstall": "^2.1.0",
         "prop-types": "^15.8.1",
         "react": "^18.1.0",
