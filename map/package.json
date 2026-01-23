@@ -32,7 +32,7 @@
         "leaflet-hash": "^0.2.1",
         "leaflet-spin": "^1.1.2",
         "leaflet.awesome-markers": "^2.0.5",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "pako": "^2.0.4",
         "patch-package": "^6.4.7",
         "postinstall-postinstall": "^2.1.0",
